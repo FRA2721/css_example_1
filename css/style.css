@@ -13,3 +13,27 @@
 /* h1 {
     color:green;
 } */
+
+/* container */
+.container{
+    background-color: aquamarine;
+    ;
+    width: 300px;
+    height: 300px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    /* border: 2px solid black; 
+    to bypass the three previous steps*/
+}
+
+.serif{
+    font-family:serif;
+    font-size: 36px;
+    text-decoration: line-through;
+    text-align: center;
+}
+
+.sans_serif{
+    font-family: sans-serif;
+}
